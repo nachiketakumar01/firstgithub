@@ -1,12 +1,12 @@
 {
-  "name": "js-starter-code",
+  "name": "firstgithub",
   "version": "1.0.0",
   "description": "JS Starter Code",
   "main": "script.js",
   "scripts": {
     "start": "lite-server"
   },
-  "author": "Pluralsight",
+  "author": "Nachiketa",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
